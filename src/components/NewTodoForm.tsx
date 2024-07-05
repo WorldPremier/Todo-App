@@ -64,4 +64,7 @@ export const NewTodoForm: React.FC<{addTodo:Function}>=(props)=>{
   );
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0a09a3283089c7bdc1a3d60da9cb26fe1f2a2e5c
